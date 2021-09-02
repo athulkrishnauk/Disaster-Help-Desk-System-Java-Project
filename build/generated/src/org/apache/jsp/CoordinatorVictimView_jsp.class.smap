@@ -1,0 +1,16 @@
+SMAP
+CoordinatorVictimView_jsp.java
+JSP
+*S JSP
+*F
++ 0 header3.jsp
+header3.jsp
++ 1 CoordinatorVictimView.jsp
+CoordinatorVictimView.jsp
++ 2 Footer3.jsp
+Footer3.jsp
+*L
+1,88:54
+1#1,131:142
+1#2,98:272
+*E

@@ -1,0 +1,16 @@
+SMAP
+CollectorVictimView_jsp.java
+JSP
+*S JSP
+*F
++ 0 header2.jsp
+header2.jsp
++ 1 CollectorVictimView.jsp
+CollectorVictimView.jsp
++ 2 Footer2.jsp
+Footer2.jsp
+*L
+1,88:54
+1#1,132:142
+1#2,98:273
+*E
